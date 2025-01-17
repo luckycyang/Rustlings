@@ -21,7 +21,6 @@ fn calculate_price_of_apples(count: u32) -> u32 {
         count * 2
     }
 }
-
 // Don't modify this function!
 #[test]
 fn verify_test() {
